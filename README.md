@@ -1,0 +1,2 @@
+# projectc
+(Re)learning C
