@@ -4,12 +4,12 @@
 // Feito por Isaías Fortes(Arseth1502)
 // 18/03/2018
 
-int n,conta,contb,contc,div, a[100],soma;
+int n,conta,contb,contc,div, a[100000],soma;
 
 int main()
 
 {
- printf("Insira um numero natural inteiro menor ou igual a 100: ");
+ printf("Insira um numero natural inteiro menor ou igual a 100000: ");
  scanf("%d", &n);
  soma=0;
  
