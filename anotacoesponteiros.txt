@@ -1,0 +1,42 @@
+printf( “%d\n” , p );      
+0
+
+printf( “%d\n” , *p ); 
+9
+
+printf( “%d\n” , &p ); 
+5
+
+printf( “%d\n” , q );
+11
+
+printf( “%d\n” , *q );
+10
+ 
+printf( “%d\n” , &q );
+8
+ 
+printf( “%d\n” , **p );
+p = 7;
+
+p = &v;
+(p = 10)
+(&p = 11)
+
+p++; 
+(p=11)
+
+printf( “%d\n” , *p );
+10
+ 
+*q = a;
+4
+
+printf( “%d\n” , *(p - 4) ); 
+3
+
+*p = 0;
+
+
+ *(q - 1) = 11;   
+
